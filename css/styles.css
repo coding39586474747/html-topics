@@ -1,0 +1,51 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  padding: 12px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 52px;
+  text-decoration: underline;
+}
+
+section {
+  width: 500px;
+  margin: 0 auto 42px auto;
+}
+
+h3 {
+  font-size: 32px;
+  text-transform: uppercase;
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 14px 0;
+  background-color: #fff;
+  padding: 15px;
+  border-left: 15px solid transparent;
+  border-radius: 7px;
+}
+
+.html-list-item {
+  border-color: rgb(255, 104, 104);
+}
+
+.css-list-item {
+  border-color: rgb(104, 127, 255);
+}
+
+.js-list-item {
+  border-color: rgb(255, 251, 45);
+}
